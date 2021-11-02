@@ -73,3 +73,9 @@ span:hover:after {
   left: 50%;
   top: 15%;
 }
+
+.carousel-caption{
+  color: white;
+  background: rgba(151, 151, 151, 0.7);
+
+}
